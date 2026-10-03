@@ -2,8 +2,8 @@
 砚藏，SillyTavern 个人资源管理器，用于保存与管理角色卡、世界书、预设、快速回复和聊天记录，也可整理画师串图片与提示词。
 
 ## 下载
-PC版本：https://github.com/yanxu-orange/ST-Orange-Yancang-PC/releases/latest
-安卓版本：https://github.com/yanxu-orange/ST-Orange-Yancang/releases/latest
+[下载砚藏PC版本](https://github.com/yanxu-orange/ST-Orange-Yancang-PC/releases/latest)
+[下载砚藏安卓版本](https://github.com/yanxu-orange/ST-Orange-Yancang/releases/latest)
 
 ## 使用
 双击「砚藏.exe」运行，角色卡库可离线使用。
